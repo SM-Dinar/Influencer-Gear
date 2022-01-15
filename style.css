@@ -19,6 +19,7 @@ body{
     font-size: 24px;   
 }
 
+
 .menu-name{
 text-decoration: none;
 color: #3A3A3A;
@@ -157,12 +158,12 @@ color: white;
     margin-top: 5px;
     margin-bottom: 0px;
 }
-
-.more-product{
-    display: top;
+.see-more-product{
+    margin-left: 81%;
 }
 
 /* product section ends */
+
 /* analytics section starts*/
     .analytics-section{
         display: flex;
@@ -290,6 +291,9 @@ color: white;
     .header-image img{
         width: 90%;
     }
+    .see-more-product{
+        margin-left: 55%;
+    }
 
     .analytics-section{
         display: flex;
@@ -339,6 +343,10 @@ color: white;
 
         display: none;
     }
+    .see-more-product{
+        margin-left: 80%;
+    }
+
     .analytics-section{
         display: flex;
         flex-direction: column;
